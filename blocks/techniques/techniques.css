@@ -1,0 +1,6 @@
+.techniques {
+  padding: 100px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
